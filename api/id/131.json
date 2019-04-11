@@ -5,7 +5,7 @@
     "Eau",
     "Glace"
   ],
-  "img": "",
+  "img": "https://equantin.github.io/poke-api/api/img/131-lokhlass.png",
   "cat": "Transport",
   "weigth": "220,0 kg",
   "heigh": "2,5 m",

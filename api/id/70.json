@@ -5,7 +5,7 @@
     "Plante",
     "Poison"
   ],
-  "img": "",
+  "img": "https://equantin.github.io/poke-api/api/img/70-boustiflor.png",
   "cat": "Carnivore",
   "weigth": "6,4 kg",
   "heigh": "1,0 m",

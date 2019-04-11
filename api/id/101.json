@@ -4,7 +4,7 @@
   "type": [
     "Electrique"
   ],
-  "img": "",
+  "img": "https://equantin.github.io/poke-api/api/img/101-electrode.png",
   "cat": "Balle",
   "weigth": "66,6 kg",
   "heigh": "1,2 m",

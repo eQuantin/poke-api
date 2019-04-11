@@ -5,7 +5,7 @@
     "Plante",
     "Poison"
   ],
-  "img": "",
+  "img": "https://equantin.github.io/poke-api/api/img/71-empiflor.png",
   "cat": "Carnivore",
   "weigth": "15,5 kg",
   "heigh": "1,7 m",
