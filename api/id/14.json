@@ -5,7 +5,7 @@
     "Insect",
     "Poison"
   ],
-  "img": "",
+  "img": "https://equantin.github.io/poke-api/api/img/14-coconfort.png",
   "cat": "Cocon",
   "weigth": "10,0 kg",
   "heigh": "0,6 m",

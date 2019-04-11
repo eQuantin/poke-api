@@ -1,10 +1,10 @@
 {
   "id": 4,
-  "name": "Salameche",
+  "name": "Salamèche",
   "type": [
     "Feu"
   ],
-  "img": "",
+  "img": "https://equantin.github.io/poke-api/api/img/4-salameche.png",
   "cat": "Lézard",
   "weigth": "8,5 kg",
   "heigh": "0,6 m",

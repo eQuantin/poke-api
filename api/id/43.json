@@ -5,7 +5,7 @@
     "Plante",
     "Poison"
   ],
-  "img": "",
+  "img": "https://equantin.github.io/poke-api/api/img/",
   "cat": "Racine",
   "weigth": "5,4 kg",
   "heigh": "0,5 m",

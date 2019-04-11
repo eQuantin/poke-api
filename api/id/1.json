@@ -5,7 +5,7 @@
     "Plante",
     "Poison"
   ],
-  "img": "",
+  "img": "https://equantin.github.io/poke-api/api/img/1-bulbizarre.png",
   "cat": "Graine",
   "weigth": "6,9 kg",
   "heigh": "0,7 m",

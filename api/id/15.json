@@ -5,7 +5,7 @@
     "Insect",
     "Poison"
   ],
-  "img": "",
+  "img": "https://equantin.github.io/poke-api/api/img/15-dardagnan.png",
   "cat": "Guêpoison",
   "weigth": "29,5 kg",
   "heigh": "1,0 m",

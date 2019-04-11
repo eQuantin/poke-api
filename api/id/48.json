@@ -5,7 +5,7 @@
     "Insect",
     "Poison"
   ],
-  "img": "",
+  "img": "https://equantin.github.io/poke-api/api/img/",
   "cat": "ChamVerminepignon",
   "weigth": "30,0 kg",
   "heigh": "1,0 m",
