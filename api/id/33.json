@@ -4,5 +4,9 @@
   "type": [
     "Poison"
   ],
-  "img": ""
+  "img": "",
+  "cat": "Vénépic",
+  "weigth": "19,5 kg",
+  "heigh": "0,9 m",
+  "desc": "Il dresse ses oreilles à l'affût d'un bruit suspect et attaque toute menace se rapprochant de lui."
 }

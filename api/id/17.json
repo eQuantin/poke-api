@@ -5,5 +5,9 @@
     "Normal",
     "Vol"
   ],
-  "img": ""
+  "img": "",
+  "cat": "Oiseau",
+  "weigth": "30,0 kg",
+  "heigh": "1,1 m",
+  "desc": "Grâce à ses griffes très puissantes, il est capable de transporter des Noeunoeuf vers un nid éloigné de plus de 100 km."
 }

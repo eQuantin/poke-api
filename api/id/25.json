@@ -4,5 +4,9 @@
   "type": [
     "Electrique"
   ],
-  "img": ""
+  "img": "",
+  "cat": "Souris",
+  "weigth": "6,0 kg",
+  "heigh": "0,4 m",
+  "desc": "Il élève sa queue pour surveiller les environs. Elle attire souvent la foudre dans cette position."
 }

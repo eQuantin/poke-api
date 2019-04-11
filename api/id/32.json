@@ -4,5 +4,9 @@
   "type": [
     "Poison"
   ],
-  "img": ""
+  "img": "",
+  "cat": "Vénépic",
+  "weigth": "9,0 kg",
+  "heigh": "0,5 m",
+  "desc": "Il jauge le terrain en laissant ses oreilles dépasser de l'herbe. Il se défend avec sa corne toxique."
 }

@@ -4,5 +4,9 @@
   "type": [
     "Feu"
   ],
-  "img": ""
+  "img": "",
+  "cat": "Renard",
+  "weigth": "9,9 kg",
+  "heigh": "0,6 m",
+  "desc": "Il n'a qu'une seule queue à la naissance. Sa queue se divise à la pointe au fil des ans."
 }

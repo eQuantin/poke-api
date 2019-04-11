@@ -5,5 +5,9 @@
     "Insect",
     "Poison"
   ],
-  "img": ""
+  "img": "",
+  "cat": "Cocon",
+  "weigth": "10,0 kg",
+  "heigh": "0,6 m",
+  "desc": "Incapable de se déplacer de lui-même, il se défend en durcissant sa carapace."
 }

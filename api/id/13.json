@@ -5,5 +5,9 @@
     "Insect",
     "Poison"
   ],
-  "img": ""
+  "img": "",
+  "cat": "Insectopic",
+  "weigth": "3,2 kg",
+  "heigh": "0,3 m",
+  "desc": "On trouve souvent ce Pokémon dans les forêts et les hautes herbes. L'aiguillon de 5 cm sur sa tête contient un venin très toxique."
 }

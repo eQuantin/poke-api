@@ -5,5 +5,9 @@
     "Normal",
     "Vol"
   ],
-  "img": ""
+  "img": "",
+  "cat": "Bec-Oiseau",
+  "weigth": "38,0 kg",
+  "heigh": "1,2 m",
+  "desc": "Ses ailes géantes lui permettent de voler sur de longues distances sans qu'il ait besoin de se reposer."
 }

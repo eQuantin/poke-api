@@ -5,5 +5,9 @@
     "Plante",
     "Poison"
   ],
-  "img": ""
+  "img": "",
+  "cat": "Racine",
+  "weigth": "8,6 kg",
+  "heigh": "0,8 m",
+  "desc": "Il sent très mauvais ! Mais une personne sur 1 000 aime la puanteur de son corps nauséabond."
 }

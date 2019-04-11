@@ -4,5 +4,9 @@
   "type": [
     "Poison"
   ],
-  "img": ""
+  "img": "",
+  "cat": "Serpent",
+  "weigth": "6,9 kg",
+  "heigh": "2,0 m",
+  "desc": "Plus il est âgé, plus son corps est long. Il se love autour des arbres pour se reposer."
 }

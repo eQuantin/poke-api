@@ -5,5 +5,9 @@
     "Insect",
     "Plante"
   ],
-  "img": ""
+  "img": "",
+  "cat": "Champignon",
+  "weigth": "29,5 kg",
+  "heigh": "1,0 m",
+  "desc": "Un champignon parasite plus gros que Parasect contrôle son corps. Il répand des spores empoisonnées."
 }

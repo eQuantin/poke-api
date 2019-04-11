@@ -5,5 +5,9 @@
     "Insect",
     "Poison"
   ],
-  "img": ""
+  "img": "",
+  "cat": "ChamVerminepignon",
+  "weigth": "30,0 kg",
+  "heigh": "1,0 m",
+  "desc": "Ses grands yeux sont en fait des amas d'yeux minuscules. La nuit, il est attiré par la lumière."
 }
