@@ -1,8 +1,12 @@
 {
   "id": 36,
-  "name": "Melodelfe",
+  "name": "Mélodelfe",
   "type": [
     "Normal"
   ],
-  "img": ""
+  "img": "",
+  "cat": "Fée",
+  "weigth": "40,0 kg",
+  "heigh": "1,3 m",
+  "desc": "Il aime le calme des montagnes. Son ouïe exceptionnelle entendrait une aiguille tomber à 1km."
 }

@@ -4,5 +4,9 @@
   "type": [
     "Combat"
   ],
-  "img": ""
+  "img": "",
+  "cat": "",
+  "weigth": "",
+  "heigh": "",
+  "desc": ""
 }

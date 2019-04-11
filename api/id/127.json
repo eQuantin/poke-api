@@ -4,5 +4,9 @@
   "type": [
     "Insect"
   ],
-  "img": ""
+  "img": "",
+  "cat": "",
+  "weigth": "",
+  "heigh": "",
+  "desc": ""
 }

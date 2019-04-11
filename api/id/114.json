@@ -4,5 +4,9 @@
   "type": [
     "Plante"
   ],
-  "img": ""
+  "img": "",
+  "cat": "",
+  "weigth": "",
+  "heigh": "",
+  "desc": ""
 }

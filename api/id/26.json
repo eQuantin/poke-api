@@ -4,5 +4,9 @@
   "type": [
     "Electrique"
   ],
-  "img": ""
+  "img": "",
+  "cat": "Souris",
+  "weigth": "30,0 kg",
+  "heigh": "0,8 m",
+  "desc": "Quand il se charge en électricité, ses muscles se contractent et il devient plus agressif."
 }

@@ -4,5 +4,9 @@
   "type": [
     "Normal"
   ],
-  "img": ""
+  "img": "",
+  "cat": "Souris",
+  "weigth": "3,5 kg",
+  "heigh": "0,3 m",
+  "desc": "Vivant là où se trouve la nourriture, ce charognard passe ses journées à la rechercher."
 }

@@ -5,5 +5,9 @@
     "Poison",
     "Vol"
   ],
-  "img": ""
+  "img": "",
+  "cat": "Chovsouris",
+  "weigth": "7,5 kg",
+  "heigh": "0,8 m",
+  "desc": "Bien que dépourvu d'yeux, il repère les obstacles grâce aux ultrasons émis par sa gueule."
 }

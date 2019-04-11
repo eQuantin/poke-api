@@ -4,5 +4,9 @@
   "type": [
     "Sol"
   ],
-  "img": ""
+  "img": "",
+  "cat": "Souris",
+  "weigth": "29,5 kg",
+  "heigh": "1,0 m",
+  "desc": "Il creuse si vite qu'il peut briser ses épines et ses griffes. Mais elles repoussent en une journée."
 }

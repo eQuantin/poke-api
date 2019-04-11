@@ -5,5 +5,9 @@
     "Insect",
     "Plante"
   ],
-  "img": ""
+  "img": "",
+  "cat": "Champignon",
+  "weigth": "5,4 kg",
+  "heigh": "0,3 m",
+  "desc": "Sur le dos de ce Pokémon se trouvent des champignons appelés tochukaso. Ils se développent au même rythme que leur hôte."
 }

@@ -4,5 +4,9 @@
   "type": [
     "Normal"
   ],
-  "img": ""
+  "img": "",
+  "cat": "Souris",
+  "weigth": "18,5 kg",
+  "heigh": "0,7 m",
+  "desc": "Il grignote sans cesse pour apaiser la poussée de ses crocs. Il peut transpercer un mur de parpaings."
 }

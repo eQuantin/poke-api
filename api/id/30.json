@@ -4,5 +4,9 @@
   "type": [
     "Poison"
   ],
-  "img": ""
+  "img": "",
+  "cat": "Vénépic",
+  "weigth": "20,0 kg",
+  "heigh": "0,8 m",
+  "desc": "La femelle a un tempérament doux. Elle émet des cris ultrasoniques capables de déstabiliser ses ennemis."
 }

@@ -5,5 +5,9 @@
     "Poison",
     "Vol"
   ],
-  "img": ""
+  "img": "",
+  "cat": "Chovsouris",
+  "weigth": "55,0 kg",
+  "heigh": "1,6 m",
+  "desc": "Il mord son adversaire et absorbe toute son énergie, même s'il devient trop lourd pour voler."
 }

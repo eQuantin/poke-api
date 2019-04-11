@@ -5,18 +5,18 @@
     "type" : ["Plante", "Poison"],
     "img" : "",
     "cat" : "Graine",
-    "weigth" : "6.9kg",
-    "heigh" : "0.7m",
+    "weigth" : "6,9 kg",
+    "heigh" : "0,7 m",
     "desc" : "Il a une étrange graine plantée sur son dos. Elle grandit avec lui depuis sa naissance."
   },
   {
     "id" : 2,
     "name" : "Herbizarre",
     "type" : ["Plante", "Poison"],
-    "img" : "",
+    "img" : "https://equantin.github.io/poke-api/api/img/herbizare.png",
     "cat" : "Graine",
-    "weigth" : "13.0kg",
-    "heigh" : "1.0m",
+    "weigth" : "13,0 kg",
+    "heigh" : "1,0 m",
     "desc" : "Il a un bulbe sur son dos. On dit que s'il absorbe assez de nutriments, ce bulbe se transforme en une jolie fleur."
   },
   {
@@ -25,8 +25,8 @@
     "type" : ["Plante", "Poison"],
     "img" : "",
     "cat" : "Graine",
-    "weigth" : "100.0kg",
-    "heigh" : "2.0m",
+    "weigth" : "100,0 kg",
+    "heigh" : "2,0 m",
     "desc" : "Ses pétales lui servent à capter la lumière du soleil. Il peut ainsi en canaliser l'énergie."
   },
   {
@@ -34,9 +34,9 @@
     "name" : "Salameche",
     "type" : ["Feu"],
     "img" : "",
-    "cat" : "Lezard",
-    "weigth" : "8.5kg",
-    "heigh" : "0.6m",
+    "cat" : "Lézard",
+    "weigth" : "8,5 kg",
+    "heigh" : "0,6 m",
     "desc" : "La flamme sur sa queue représente l'énergie vitale de Salamèche. Quand il est vigoureux, elle brûle plus fort."
   },
   {
@@ -44,9 +44,9 @@
     "name" : "Reptincel",
     "type" : ["Feu"],
     "img" : "",
-    "cat" : "Lezard",
-    "weigth" : "19.0kg",
-    "heigh" : "1.1m",
+    "cat" : "Flamme",
+    "weigth" : "19,0 kg",
+    "heigh" : "1,1 m",
     "desc" : "Il se sert de sa queue pour faire tomber ses adversaires. Une fois qu'ils sont au sol, il les lacère de ses griffes acérées."
   },
   {
@@ -54,9 +54,9 @@
     "name" : "Dracaufeu",
     "type" : ["Feu", "Vol"],
     "img" : "",
-    "cat" : "Lezard",
-    "weigth" : "90.5kg",
-    "heigh" : "1.7m",
+    "cat" : "Flamme",
+    "weigth" : "90,5 kg",
+    "heigh" : "1,7 m",
     "desc" : "Quand il crache son souffle brûlant, la flamme au bout de sa queue s'embrase."
   },
   {
@@ -64,9 +64,9 @@
     "name" : "Carapuce",
     "type" : ["Eau"],
     "img" : "",
-    "cat" : "MiniTortue",
-    "weigth" : "9.0kg",
-    "heigh" : "0.5m",
+    "cat" : "Minitortue",
+    "weigth" : "9,0 kg",
+    "heigh" : "0,5 m",
     "desc" : "Il se réfugie dans sa carapace et réplique en éclaboussant l'ennemi à la première occasion."
   },
   {
@@ -75,8 +75,8 @@
     "type" : ["Eau"],
     "img" : "",
     "cat" : "Tortue",
-    "weigth" : "22.5kg",
-    "heigh" : "1.0m",
+    "weigth" : "22,5 kg",
+    "heigh" : "1,0 m",
     "desc" : "Attaqué, il cache sa tête dans sa carapace, mais son corps trop gros ne peut y tenir en entier."
   },
   {
@@ -85,8 +85,8 @@
     "type" : ["Eau"],
     "img" : "",
     "cat" : "Carapace",
-    "weigth" : "85.5kg",
-    "heigh" : "1.6m",
+    "weigth" : "85,5 kg",
+    "heigh" : "1,6 m",
     "desc" : "Il écrase ses adversaires de tout son poids pour leur faire perdre connaissance. Il rentre dans sa carapace s'il se sent en danger."
   },
   {
@@ -95,8 +95,8 @@
     "type" : ["Insect"],
     "img" : "",
     "cat" : "Ver",
-    "weigth" : "2.9kg",
-    "heigh" : "0.3m",
+    "weigth" : "2,9 kg",
+    "heigh" : "0,3 m",
     "desc" : "Pour se protéger, il émet un gaz puant par ses antennes, qui fait fuir ses ennemis audacieux."
   },
   {
@@ -105,8 +105,8 @@
     "type" : ["Insect"],
     "img" : "",
     "cat" : "Cocon",
-    "weigth" : "9.9kg",
-    "heigh" : "0.7m",
+    "weigth" : "9,9 kg",
+    "heigh" : "0,7 m",
     "desc" : "Son corps frêle est protégé par sa carapace d'acier. Il encaisse les coups durs en attendant d'évoluer."
   },
   {
@@ -115,8 +115,8 @@
     "type" : ["Insect", "Vol"],
     "img" : "",
     "cat" : "Papillon",
-    "weigth" : "32.0kg",
-    "heigh" : "1.1m",
+    "weigth" : "32,0 kg",
+    "heigh" : "1,1 m",
     "desc" : "Il raffole du nectar des fleurs. Il est capable de repérer la plus petite quantité de pollen."
   },
   {
@@ -125,8 +125,8 @@
     "type" : ["Insect", "Poison"],
     "img" : "",
     "cat" : "Insectopic",
-    "weigth" : "3.2kg",
-    "heigh" : "0.3m",
+    "weigth" : "3,2 kg",
+    "heigh" : "0,3 m",
     "desc" : "On trouve souvent ce Pokémon dans les forêts et les hautes herbes. L'aiguillon de 5 cm sur sa tête contient un venin très toxique."
   },
   {
@@ -135,8 +135,8 @@
     "type" : ["Insect", "Poison"],
     "img" : "",
     "cat" : "Cocon",
-    "weigth" : "10.0kg",
-    "heigh" : "0.6m",
+    "weigth" : "10,0 kg",
+    "heigh" : "0,6 m",
     "desc" : "Incapable de se déplacer de lui-même, il se défend en durcissant sa carapace."
   },
   {
@@ -144,9 +144,9 @@
     "name" : "Dardagnan",
     "type" : ["Insect", "Poison"],
     "img" : "",
-    "cat" : "Insectoide",
-    "weigth" : "29.5kg",
-    "heigh" : "1.0m",
+    "cat" : "Guêpoison",
+    "weigth" : "29,5 kg",
+    "heigh" : "1,0 m",
     "desc" : "Il se sert de ses trois aiguillons empoisonnés pour attaquer sans relâche ses adversaires."
   },
   {
@@ -154,9 +154,9 @@
     "name" : "Roucool",
     "type" : ["Normal", "Vol"],
     "img" : "",
-    "cat" : "Minioiseau",
-    "weigth" : "1.8kg",
-    "heigh" : "0.3m",
+    "cat" : "Minoiseau",
+    "weigth" : "1,8 kg",
+    "heigh" : "0,3 m",
     "desc" : "On l'aperçoit souvent dans les forêts. Avec ses ailes, il brasse l'air près du sol pour projeter du sable."
   },
   {
@@ -165,8 +165,8 @@
     "type" : ["Normal", "Vol"],
     "img" : "",
     "cat" : "Oiseau",
-    "weigth" : "30.0kg",
-    "heigh" : "1.1m",
+    "weigth" : "30,0 kg",
+    "heigh" : "1,1 m",
     "desc" : "Grâce à ses griffes très puissantes, il est capable de transporter des Noeunoeuf vers un nid éloigné de plus de 100 km."
   },
   {
@@ -175,8 +175,8 @@
     "type" : ["Normal", "Vol"],
     "img" : "",
     "cat" : "Oiseau",
-    "weigth" : "39.5kg",
-    "heigh" : "1.5m",
+    "weigth" : "39,5 kg",
+    "heigh" : "1,5 m",
     "desc" : "Il survole la surface de l'eau pour repérer une proie et plonge en piqué pour l'attraper."
   },
   {
@@ -185,8 +185,8 @@
     "type" : ["Normal"],
     "img" : "",
     "cat" : "Souris",
-    "weigth" : "3.5kg",
-    "heigh" : "0.3m",
+    "weigth" : "3,5 kg",
+    "heigh" : "0,3 m",
     "desc" : "Vivant là où se trouve la nourriture, ce charognard passe ses journées à la rechercher."
   },
   {
@@ -195,8 +195,8 @@
     "type" : ["Normal"],
     "img" : "",
     "cat" : "Souris",
-    "weigth" : "18.5kg",
-    "heigh" : "0.7m",
+    "weigth" : "18,5 kg",
+    "heigh" : "0,7 m",
     "desc" : "Il grignote sans cesse pour apaiser la poussée de ses crocs. Il peut transpercer un mur de parpaings."
   },
   {
@@ -204,9 +204,9 @@
     "name" : "Piafabec",
     "type" : ["Normal", "Vol"],
     "img" : "",
-    "cat" : "MiniOiseau",
-    "weigth" : "2.0kg",
-    "heigh" : "0.3m",
+    "cat" : "Minoiseau",
+    "weigth" : "2,0 kg",
+    "heigh" : "0,3 m",
     "desc" : "Très protecteur de son territoire, il bat vite des ailes pour se déplacer à toute allure."
   },
   {
@@ -215,8 +215,8 @@
     "type" : ["Normal", "Vol"],
     "img" : "",
     "cat" : "Bec-Oiseau",
-    "weigth" : "38.0kg",
-    "heigh" : "1.2m",
+    "weigth" : "38,0 kg",
+    "heigh" : "1,2 m",
     "desc" : "Ses ailes géantes lui permettent de voler sur de longues distances sans qu'il ait besoin de se reposer."
   },
   {
@@ -225,8 +225,8 @@
     "type" : ["Poison"],
     "img" : "",
     "cat" : "Serpent",
-    "weigth" : "6.9kg",
-    "heigh" : "2.0m",
+    "weigth" : "6,9 kg",
+    "heigh" : "2,0 m",
     "desc" : "Plus il est âgé, plus son corps est long. Il se love autour des arbres pour se reposer."
   },
   {
@@ -235,8 +235,8 @@
     "type" : ["Poison"],
     "img" : "",
     "cat" : "Cobra",
-    "weigth" : "65.0kg",
-    "heigh" : "3.5m",
+    "weigth" : "65,0 kg",
+    "heigh" : "3,5 m",
     "desc" : "Les motifs sur son corps ressemblent à un visage menaçant. Les adversaires les plus craintifs fuient à la seule vue de ce Pokémon."
   },
   {
@@ -245,8 +245,8 @@
     "type" : ["Electrique"],
     "img" : "",
     "cat" : "Souris",
-    "weigth" : "6.0kg",
-    "heigh" : "0.4m",
+    "weigth" : "6,0 kg",
+    "heigh" : "0,4 m",
     "desc" : "Il élève sa queue pour surveiller les environs. Elle attire souvent la foudre dans cette position."
   },
   {
@@ -255,8 +255,8 @@
     "type" : ["Electrique"],
     "img" : "",
     "cat" : "Souris",
-    "weigth" : "30.0kg",
-    "heigh" : "0.8m",
+    "weigth" : "30,0 kg",
+    "heigh" : "0,8 m",
     "desc" : "Quand il se charge en électricité, ses muscles se contractent et il devient plus agressif."
   },
   {
@@ -265,239 +265,239 @@
     "type" : ["Sol"],
     "img" : "",
     "cat" : "Souris",
-    "weigth" : "12.0kg",
-    "heigh" : "",
-    "desc" : ""
+    "weigth" : "12,0 kg",
+    "heigh" : "0,6 m",
+    "desc" : "Il s'enterre et vit dans les sous-sols. S'il se sent menacé, il se met en boule pour se protéger."
   },
   {
     "id" : 28,
     "name" : "Sablaireau",
     "type" : ["Sol"],
     "img" : "",
-    "cat" : "",
-    "weigth" : "",
-    "heigh" : "",
-    "desc" : ""
+    "cat" : "Souris",
+    "weigth" : "29,5 kg",
+    "heigh" : "1,0 m",
+    "desc" : "Il creuse si vite qu'il peut briser ses épines et ses griffes. Mais elles repoussent en une journée."
   },
   {
     "id" : 29,
     "name" : "Nidoran F",
     "type" : ["Poison"],
     "img" : "",
-    "cat" : "",
-    "weigth" : "",
-    "heigh" : "",
-    "desc" : ""
+    "cat" : "Vénépic",
+    "weigth" : "7,0 kg",
+    "heigh" : "0,4 m",
+    "desc" : "Ce Pokémon est hérissé de dards empoisonnées. Les femelles ont une corne plus petite."
   },
   {
     "id" : 30,
     "name" : "Nidorina",
     "type" : ["Poison"],
     "img" : "",
-    "cat" : "",
-    "weigth" : "",
-    "heigh" : "",
-    "desc" : ""
+    "cat" : "Vénépic",
+    "weigth" : "20,0 kg",
+    "heigh" : "0,8 m",
+    "desc" : "La femelle a un tempérament doux. Elle émet des cris ultrasoniques capables de déstabiliser ses ennemis."
   },
   {
     "id" : 31,
     "name" : "Nidoqueen",
     "type" : ["Poison", "Sol"],
     "img" : "",
-    "cat" : "",
-    "weigth" : "",
-    "heigh" : "",
-    "desc" : ""
+    "cat" : "Perceur",
+    "weigth" : "60,0 kg",
+    "heigh" : "1,3 m",
+    "desc" : "Il se sert de son corps lourdement protégé pour empêcher les prédateurs d'accéder à son nid."
   },
   {
     "id" : 32,
     "name" : "Nidoran M",
     "type" : ["Poison"],
     "img" : "",
-    "cat" : "",
-    "weigth" : "",
-    "heigh" : "",
-    "desc" : ""
+    "cat" : "Vénépic",
+    "weigth" : "9,0 kg",
+    "heigh" : "0,5 m",
+    "desc" : "Il jauge le terrain en laissant ses oreilles dépasser de l'herbe. Il se défend avec sa corne toxique."
   },
   {
     "id" : 33,
     "name" : "Nidorino",
     "type" : ["Poison"],
     "img" : "",
-    "cat" : "",
-    "weigth" : "",
-    "heigh" : "",
-    "desc" : ""
+    "cat" : "Vénépic",
+    "weigth" : "19,5 kg",
+    "heigh" : "0,9 m",
+    "desc" : "Il dresse ses oreilles à l'affût d'un bruit suspect et attaque toute menace se rapprochant de lui."
   },
   {
     "id" : 34,
     "name" : "Nidoking",
     "type" : ["Poison", "Sol"],
     "img" : "",
-    "cat" : "",
-    "weigth" : "",
-    "heigh" : "",
-    "desc" : ""
+    "cat" : "Perceur",
+    "weigth" : "62,0 kg",
+    "heigh" : "1,4 m",
+    "desc" : "On le reconnaît facilement grâce à sa peau dure comme la pierre ainsi qu'à sa grosse corne pleine de poison."
   },
   {
     "id" : 35,
-    "name" : "Melofee",
+    "name" : "Mélofée",
     "type" : ["Normal"],
     "img" : "",
-    "cat" : "",
-    "weigth" : "",
-    "heigh" : "",
-    "desc" : ""
+    "cat" : "Fée",
+    "weigth" : "7,5 kg",
+    "heigh" : "0,6 m",
+    "desc" : "On dit que ceux qui voient danser une groupe de Mélofée sous la pleine lune connaîtront un grand bonheur."
   },
   {
     "id" : 36,
-    "name" : "Melodelfe",
+    "name" : "Mélodelfe",
     "type" : ["Normal"],
     "img" : "",
-    "cat" : "",
-    "weigth" : "",
-    "heigh" : "",
-    "desc" : ""
+    "cat" : "Fée",
+    "weigth" : "40,0 kg",
+    "heigh" : "1,3 m",
+    "desc" : "Il aime le calme des montagnes. Son ouïe exceptionnelle entendrait une aiguille tomber à 1km."
   },
   {
     "id" : 37,
     "name" : "Goupix",
     "type" : ["Feu"],
     "img" : "",
-    "cat" : "",
-    "weigth" : "",
-    "heigh" : "",
-    "desc" : ""
+    "cat" : "Renard",
+    "weigth" : "9,9 kg",
+    "heigh" : "0,6 m",
+    "desc" : "Il n'a qu'une seule queue à la naissance. Sa queue se divise à la pointe au fil des ans."
   },
   {
     "id" : 38,
     "name" : "Feunard",
     "type" : ["Feu"],
     "img" : "",
-    "cat" : "",
-    "weigth" : "",
-    "heigh" : "",
-    "desc" : ""
+    "cat" : "Renard",
+    "weigth" : "19,9 kg",
+    "heigh" : "1,1 m",
+    "desc" : "Il a neuf longues queues et une fourrure qui brille comme de l'or. On dit qu'il peut vivre 1 000 ans."
   },
   {
     "id" : 39,
     "name" : "Rondoudou",
     "type" : ["Normal"],
     "img" : "",
-    "cat" : "",
-    "weigth" : "",
-    "heigh" : "",
-    "desc" : ""
+    "cat" : "Bouboule",
+    "weigth" : "5,5 kg",
+    "heigh" : "0,5 m",
+    "desc" : "Il hypnotise ses ennemis grâce à ses grands yeux avant de les plonger dans un profond sommeil en chantant une douce mélopée."
   },
   {
     "id" : 40,
     "name" : "Grodoudou",
     "type" : ["Normal"],
     "img" : "",
-    "cat" : "",
-    "weigth" : "",
-    "heigh" : "",
-    "desc" : ""
+    "cat" : "Bouboule",
+    "weigth" : "12,0 kg",
+    "heigh" : "1,0 m",
+    "desc" : "Leur fourrure est si douce que s'ils se font des câlins, ils ne voudront plus se séparer."
   },
   {
     "id" : 41,
     "name" : "Nosferapti",
     "type" : ["Poison", "Vol"],
     "img" : "",
-    "cat" : "",
-    "weigth" : "",
-    "heigh" : "",
-    "desc" : ""
+    "cat" : "Chovsouris",
+    "weigth" : "7,5 kg",
+    "heigh" : "0,8 m",
+    "desc" : "Bien que dépourvu d'yeux, il repère les obstacles grâce aux ultrasons émis par sa gueule."
   },
   {
     "id" : 42,
     "name" : "Nosferalto",
     "type" : ["Poison", "Vol"],
     "img" : "",
-    "cat" : "",
-    "weigth" : "",
-    "heigh" : "",
-    "desc" : ""
+    "cat" : "Chovsouris",
+    "weigth" : "55,0 kg",
+    "heigh" : "1,6 m",
+    "desc" : "Il mord son adversaire et absorbe toute son énergie, même s'il devient trop lourd pour voler."
   },
   {
     "id" : 43,
     "name" : "Mystherbe",
     "type" : ["Plante", "Poison"],
     "img" : "",
-    "cat" : "",
-    "weigth" : "",
-    "heigh" : "",
-    "desc" : ""
+    "cat" : "Racine",
+    "weigth" : "5,4 kg",
+    "heigh" : "0,5 m",
+    "desc" : "Le jour, il reste en sous-sol et évite le soleil. Il grandit en se baignant au clair de lune."
   },
   {
     "id" : 44,
     "name" : "Ortide",
     "type" : ["Plante", "Poison"],
     "img" : "",
-    "cat" : "",
-    "weigth" : "",
-    "heigh" : "",
-    "desc" : ""
+    "cat" : "Racine",
+    "weigth" : "8,6 kg",
+    "heigh" : "0,8 m",
+    "desc" : "Il sent très mauvais ! Mais une personne sur 1 000 aime la puanteur de son corps nauséabond."
   },
   {
     "id" : 45,
     "name" : "Rafflesia",
     "type" : ["Plante", "Poison"],
     "img" : "",
-    "cat" : "",
-    "weigth" : "",
-    "heigh" : "",
-    "desc" : ""
+    "cat" : "Fleur",
+    "weigth" : "18,6 kg",
+    "heigh" : "1,2 m",
+    "desc" : "Plus ses pétales sont grands, plus ils contiennent de pollen toxique."
   },
   {
     "id" : 46,
     "name" : "Paras",
     "type" : ["Insect", "Plante"],
     "img" : "",
-    "cat" : "",
-    "weigth" : "",
-    "heigh" : "",
-    "desc" : ""
+    "cat" : "Champignon",
+    "weigth" : "5,4 kg",
+    "heigh" : "0,3 m",
+    "desc" : "Sur le dos de ce Pokémon se trouvent des champignons appelés tochukaso. Ils se développent au même rythme que leur hôte."
   },
   {
     "id" : 47,
     "name" : "Parasect",
     "type" : ["Insect", "Plante"],
     "img" : "",
-    "cat" : "",
-    "weigth" : "",
-    "heigh" : "",
-    "desc" : ""
+    "cat" : "Champignon",
+    "weigth" : "29,5 kg",
+    "heigh" : "1,0 m",
+    "desc" : "Un champignon parasite plus gros que Parasect contrôle son corps. Il répand des spores empoisonnées."
   },
   {
     "id" : 48,
     "name" : "Mimitoss",
     "type" : ["Insect", "Poison"],
     "img" : "",
-    "cat" : "",
-    "weigth" : "",
-    "heigh" : "",
-    "desc" : ""
+    "cat" : "ChamVerminepignon",
+    "weigth" : "30,0 kg",
+    "heigh" : "1,0 m",
+    "desc" : "Ses grands yeux sont en fait des amas d'yeux minuscules. La nuit, il est attiré par la lumière."
   },
   {
     "id" : 49,
     "name" : "Aeromite",
     "type" : ["Insect", "Poison"],
     "img" : "",
-    "cat" : "",
-    "weigth" : "",
-    "heigh" : "",
-    "desc" : ""
+    "cat" : "Papipoison",
+    "weigth" : "12,5 kg",
+    "heigh" : "1,5 m",
+    "desc" : "Les écailles qu'il sème ont le pouvoir de paralyser totalement un ennemi."
   },
   {
     "id" : 50,
     "name" : "Taupiqueur",
     "type" : ["Sol"],
     "img" : "",
-    "cat" : "",
-    "weigth" : "",
-    "heigh" : "",
-    "desc" : ""
+    "cat" : "Taupe",
+    "weigth" : "0,8 kg",
+    "heigh" : "0,2 m",
+    "desc" : "Il vit à un mètre sous la terre et se nourrit de racines. Il apparaît rarement à la surface."
   },
   {
     "id" : 51,

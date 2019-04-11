@@ -5,9 +5,9 @@
     "Plante",
     "Poison"
   ],
-  "img": "",
+  "img": "https://equantin.github.io/poke-api/api/img/herbizare.png",
   "cat": "Graine",
-  "weigth": "13.0kg",
-  "heigh": "1.0m",
+  "weigth": "13,0 kg",
+  "heigh": "1,0 m",
   "desc": "Il a un bulbe sur son dos. On dit que s'il absorbe assez de nutriments, ce bulbe se transforme en une jolie fleur."
 }
