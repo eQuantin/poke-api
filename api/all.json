@@ -204,68 +204,68 @@
     "name" : "Piafabec",
     "type" : ["Normal", "Vol"],
     "img" : "",
-    "cat" : "",
-    "weigth" : "",
-    "heigh" : "",
-    "desc" : ""
+    "cat" : "MiniOiseau",
+    "weigth" : "2.0kg",
+    "heigh" : "0.3m",
+    "desc" : "Très protecteur de son territoire, il bat vite des ailes pour se déplacer à toute allure."
   },
   {
     "id" : 22,
     "name" : "Rapasdepic",
     "type" : ["Normal", "Vol"],
     "img" : "",
-    "cat" : "",
-    "weigth" : "",
-    "heigh" : "",
-    "desc" : ""
+    "cat" : "Bec-Oiseau",
+    "weigth" : "38.0kg",
+    "heigh" : "1.2m",
+    "desc" : "Ses ailes géantes lui permettent de voler sur de longues distances sans qu'il ait besoin de se reposer."
   },
   {
     "id" : 23,
     "name" : "Abo",
     "type" : ["Poison"],
     "img" : "",
-    "cat" : "",
-    "weigth" : "",
-    "heigh" : "",
-    "desc" : ""
+    "cat" : "Serpent",
+    "weigth" : "6.9kg",
+    "heigh" : "2.0m",
+    "desc" : "Plus il est âgé, plus son corps est long. Il se love autour des arbres pour se reposer."
   },
   {
     "id" : 24,
     "name" : "Arbok",
     "type" : ["Poison"],
     "img" : "",
-    "cat" : "",
-    "weigth" : "",
-    "heigh" : "",
-    "desc" : ""
+    "cat" : "Cobra",
+    "weigth" : "65.0kg",
+    "heigh" : "3.5m",
+    "desc" : "Les motifs sur son corps ressemblent à un visage menaçant. Les adversaires les plus craintifs fuient à la seule vue de ce Pokémon."
   },
   {
     "id" : 25,
     "name" : "Pikachu",
     "type" : ["Electrique"],
     "img" : "",
-    "cat" : "",
-    "weigth" : "",
-    "heigh" : "",
-    "desc" : ""
+    "cat" : "Souris",
+    "weigth" : "6.0kg",
+    "heigh" : "0.4m",
+    "desc" : "Il élève sa queue pour surveiller les environs. Elle attire souvent la foudre dans cette position."
   },
   {
     "id" : 26,
     "name" : "Raichu",
     "type" : ["Electrique"],
     "img" : "",
-    "cat" : "",
-    "weigth" : "",
-    "heigh" : "",
-    "desc" : ""
+    "cat" : "Souris",
+    "weigth" : "30.0kg",
+    "heigh" : "0.8m",
+    "desc" : "Quand il se charge en électricité, ses muscles se contractent et il devient plus agressif."
   },
   {
     "id" : 27,
     "name" : "Sabelette",
     "type" : ["Sol"],
     "img" : "",
-    "cat" : "",
-    "weigth" : "",
+    "cat" : "Souris",
+    "weigth" : "12.0kg",
     "heigh" : "",
     "desc" : ""
   },
