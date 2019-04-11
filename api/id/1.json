@@ -1,0 +1,13 @@
+{
+  "id": 1,
+  "name": "Bulbizarre",
+  "type": [
+    "Plante",
+    "Poison"
+  ],
+  "img": "",
+  "cat": "Graine",
+  "weigth": "6.9kg",
+  "heigh": "0.7m",
+  "desc": "Il a une étrange graine plantée sur son dos. Elle grandit avec lui depuis sa naissance."
+}

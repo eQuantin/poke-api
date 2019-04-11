@@ -1,0 +1,13 @@
+{
+  "id": 6,
+  "name": "Dracaufeu",
+  "type": [
+    "Feu",
+    "Vol"
+  ],
+  "img": "",
+  "cat": "Lezard",
+  "weigth": "90.5kg",
+  "heigh": "1.7m",
+  "desc": "Quand il crache son souffle brûlant, la flamme au bout de sa queue s'embrase."
+}

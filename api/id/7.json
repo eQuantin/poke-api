@@ -1,0 +1,12 @@
+{
+  "id": 7,
+  "name": "Carapuce",
+  "type": [
+    "Eau"
+  ],
+  "img": "",
+  "cat": "MiniTortue",
+  "weigth": "9.0kg",
+  "heigh": "0.5m",
+  "desc": "Il se réfugie dans sa carapace et réplique en éclaboussant l'ennemi à la première occasion."
+}

@@ -1,0 +1,13 @@
+{
+  "id": 12,
+  "name": "Papilusion",
+  "type": [
+    "Insect",
+    "Vol"
+  ],
+  "img": "",
+  "cat": "Papillon",
+  "weigth": "32.0kg",
+  "heigh": "1.1m",
+  "desc": ""
+}

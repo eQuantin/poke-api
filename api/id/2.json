@@ -1,0 +1,13 @@
+{
+  "id": 2,
+  "name": "Herbizarre",
+  "type": [
+    "Plante",
+    "Poison"
+  ],
+  "img": "",
+  "cat": "Graine",
+  "weigth": "13.0kg",
+  "heigh": "1.0m",
+  "desc": "Il a un bulbe sur son dos. On dit que s'il absorbe assez de nutriments, ce bulbe se transforme en une jolie fleur."
+}

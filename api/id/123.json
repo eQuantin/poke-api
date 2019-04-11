@@ -1,0 +1,9 @@
+{
+  "id": 123,
+  "name": "Insecateur",
+  "type": [
+    "Insect",
+    "Vol"
+  ],
+  "img": ""
+}

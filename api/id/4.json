@@ -1,0 +1,12 @@
+{
+  "id": 4,
+  "name": "Salameche",
+  "type": [
+    "Feu"
+  ],
+  "img": "",
+  "cat": "Lezard",
+  "weigth": "8.5kg",
+  "heigh": "0.6m",
+  "desc": "La flamme sur sa queue représente l'énergie vitale de Salamèche. Quand il est vigoureux, elle brûle plus fort."
+}

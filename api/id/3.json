@@ -1,0 +1,13 @@
+{
+  "id": 3,
+  "name": "Florizarre",
+  "type": [
+    "Plante",
+    "Poison"
+  ],
+  "img": "",
+  "cat": "Graine",
+  "weigth": "100.0kg",
+  "heigh": "2.0m",
+  "desc": "Ses pétales lui servent à capter la lumière du soleil. Il peut ainsi en canaliser l'énergie."
+}
